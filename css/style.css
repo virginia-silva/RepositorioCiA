@@ -25,3 +25,7 @@ header a h1 {
     color: var(--blue);
 
 }
+
+footer {
+    padding: 1rem;
+}
